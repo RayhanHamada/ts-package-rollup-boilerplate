@@ -1,5 +1,5 @@
 {
-  "name": "typescript-package-boilerplate",
+  "name": "@mocchapine/typescript-package-boilerplate",
   "version": "1.0.0",
   "description": "Repository for creating typescript package",
   "main": "dist/cjs/index.js",
