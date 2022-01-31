@@ -4,7 +4,7 @@
   "description": "Repository for creating typescript package",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
-  "types": "dist/cjs/index.d.ts",
+  "types": "dist/index.d.ts",
   "type": "module",
   "scripts": {
     "build": "rollup -c",
