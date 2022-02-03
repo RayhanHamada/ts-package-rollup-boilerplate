@@ -1,6 +1,6 @@
 {
   "name": "@mocchapine/ts-package-rollup-boilerplate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Repository for creating typescript package",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
