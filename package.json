@@ -7,8 +7,7 @@
   "types": "dist/index.d.ts",
   "type": "module",
   "scripts": {
-    "build": "rollup -c",
-    "postinstall": "rollup -c"
+    "build": "rollup -c"
   },
   "keywords": [],
   "author": "RayhanHamada <rayhanhamada1999@gmail.com>",
