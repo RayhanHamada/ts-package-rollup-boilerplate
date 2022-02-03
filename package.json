@@ -2,7 +2,7 @@
   "name": "@mocchapine/ts-package-rollup-boilerplate",
   "version": "1.0.3",
   "description": "Repository for creating typescript package",
-  "main": "dist/cjs/index.js",
+  "main": "dist/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
   "type": "module",

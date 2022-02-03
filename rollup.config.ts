@@ -10,7 +10,7 @@ export default defineConfig({
   output: [
     {
       name: 'CJS',
-      dir: 'dist/cjs',
+      dir: 'dist',
       format: 'cjs',
     },
     {
@@ -23,8 +23,6 @@ export default defineConfig({
     pluginTs({
       tsconfig: {
         target: ScriptTarget.ESNext,
-        declarationDir: 'dist',
-        declaration: true,
       },
     }),
   ],
