@@ -1,5 +1,5 @@
 {
-  "name": "@mocchapine/typescript-package-boilerplate",
+  "name": "@mocchapine/ts-package-rollup-boilerplate",
   "version": "1.0.1",
   "description": "Repository for creating typescript package",
   "main": "dist/cjs/index.js",
