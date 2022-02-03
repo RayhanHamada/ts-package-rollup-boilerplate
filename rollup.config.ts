@@ -23,6 +23,7 @@ export default defineConfig({
     pluginTs({
       tsconfig: {
         target: ScriptTarget.ESNext,
+        declaration: true,
       },
     }),
   ],
